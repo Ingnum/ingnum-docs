@@ -14,3 +14,11 @@ layout:
 
 # よくあるご質問（FAQ）
 
+<details>
+
+<summary>Dos/DDos保護は付属していますか？</summary>
+
+はい、標準ですべてのプランに付属しております。\
+また、160Gbps+のプロテクションを搭載しております。
+
+</details>
