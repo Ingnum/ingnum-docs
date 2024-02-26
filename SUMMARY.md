@@ -1,3 +1,4 @@
 # Table of contents
 
-* [Page](README.md)
+* [INGNUM](README.md)
+* [よくあるご質問（FAQ）](yokuarugofaq.md)
